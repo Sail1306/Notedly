@@ -1,4 +1,4 @@
-'use client';"use client";
+'use client';
 import React, { useEffect, useState } from "react";
 import jwt from "jsonwebtoken";
 import { Loader } from "lucide-react";

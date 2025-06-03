@@ -1,4 +1,4 @@
-"use client";
+'use client';
 import { useEffect, useState } from "react";
 import jwt from "jsonwebtoken";
 import { Button } from "@/components/ui/button";
